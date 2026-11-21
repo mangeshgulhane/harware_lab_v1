@@ -1,0 +1,7 @@
+{
+  "name": "AI Powered Interactive Hardware Lab™",
+  "description": "An AI-powered interactive tool for students to learn about Raspberry Pi and Arduino. Drag and drop components, see automatic connections, and get the code to make them work.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
